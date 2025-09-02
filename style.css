@@ -231,6 +231,7 @@ nav {
 }
 
 .video {
+    witdh: 100%;
     height: 46rem;
     border-radius: 40px;
     object-fit: cover;
